@@ -1,4 +1,4 @@
-<img src=<a id='tdOOFwRaQ0NS24qJQxn3Zg' class='gie-single' href='http://www.gettyimages.com/detail/970317224' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'tdOOFwRaQ0NS24qJQxn3Zg',sig:'gmCAT74qmyg6N3AvzaNlB06kpbCk2ObMb6-YqUFCuAs=',w:'589px',h:'295px',items:'970317224',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
+<img src="https://bicontent.businessinsurance.com/f3ded189-051a-4f51-99a1-3496e338e177.jpg">
 ### Hi there 👋 My name is Karima
 🔭 I’m currently working on my Data science and ML portfolio
 <!--
