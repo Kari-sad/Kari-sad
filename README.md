@@ -1,7 +1,7 @@
 <img src="https://bicontent.businessinsurance.com/f3ded189-051a-4f51-99a1-3496e338e177.jpg">
- # WELCOME TO MY GITHUB PAGE
+ # WELCOME TO MY GITHUB PAGE <br>
 
-### Hi there 👋 My name is Karima. I am an IT system administrator and a Data science learner <br>
+### Hi there 👋 My name is Karima. I am an IT system administrator and a Data science learner 
 
      
      
