@@ -1,6 +1,7 @@
 <img src="https://bicontent.businessinsurance.com/f3ded189-051a-4f51-99a1-3496e338e177.jpg">
-### Hi there 👋 My name is Karima. I am an IT system administrator and a Data science learner <br>
-### WELCOME TO MY GITHUB PAGE <br>
+Hi there 👋 My name is Karima. I am an IT system administrator and a Data science learner <br>
+
+     ######     WELCOME TO MY GITHUB PAGE     ###### <br>
 🔭 I’m currently working on my Data science and ML portfolio
 <!--
 **Kari-sad/Kari-sad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
