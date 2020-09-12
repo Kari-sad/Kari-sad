@@ -1,4 +1,4 @@
-<img src="https://cdn.mos.cms.futurecdn.net/XbYnCuVzbcHPHuYzCGuSmf-650-80.jpg" width="800" height="300">
+<img src="https://cdn.mos.cms.futurecdn.net/XbYnCuVzbcHPHuYzCGuSmf-650-80.jpg" width="800" height="400">
 
  # WELCOME TO MY GITHUB PAGE <br>
 
