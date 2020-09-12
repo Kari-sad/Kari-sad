@@ -1,4 +1,4 @@
-<img "https://banner2.cleanpng.com/20180530/clg/kisspng-data-science-business-analytics-big-data-network-data-5b0f12a177f504.8544074915277144654914.jpg">
+<img alt="Image for post" class="cy tj t u v cj ak c" width="1120" height="481" src="https://miro.medium.com/max/1120/1*JziduX-y-2sKETAYHDzMJA.jpeg" srcset="https://miro.medium.com/max/276/1*JziduX-y-2sKETAYHDzMJA.jpeg 276w, https://miro.medium.com/max/552/1*JziduX-y-2sKETAYHDzMJA.jpeg 552w, https://miro.medium.com/max/640/1*JziduX-y-2sKETAYHDzMJA.jpeg 640w, https://miro.medium.com/max/700/1*JziduX-y-2sKETAYHDzMJA.jpeg 700w" sizes="700px">
 
  # WELCOME TO MY GITHUB PAGE <br>
 
