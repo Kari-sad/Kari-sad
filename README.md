@@ -1,8 +1,8 @@
 <img src="https://cdn.mos.cms.futurecdn.net/XbYnCuVzbcHPHuYzCGuSmf-650-80.jpg" width="900" height="300">
 
- # WELCOME TO MY GITHUB PAGE <br>
+# WELCOME TO MY GITHUB PAGE! 
 
-### Hi there 👋 My name is Karima. I am an IT system administrator and a Data science learner 
+### Hi there 👋 I am Karima, an IT system administrator and a Data science learner 
 
      
      
