@@ -1,17 +1,13 @@
 <img src="https://cdn.mos.cms.futurecdn.net/XbYnCuVzbcHPHuYzCGuSmf-650-80.jpg" width="900" height="300">
 
-<h3 align="center">WELCOME TO MY GITHUB PAGE! </h3>
-Hi there 👋 I am Karima, an IT system administrator and a Data science learner
+<h3 align="center">Hi there 👋 ,welcome to my Github page! </h3>
+<h3 align="center">I am Karima, an IT system administrator and a Data science learner</h3>
 <p align="center">
   <a href="www.linkedin.com/in/karima-s">Linkedin</a> •
+  <a href="www">Resume</a>
  </p>
 
-# WELCOME TO MY GITHUB PAGE! 
-
-### Hi there 👋 I am Karima, an IT system administrator and a Data science learner 
-
-     
-     
+  
 🔭 I’m currently working on my Data science and ML portfolio
 <!--
 **Kari-sad/Kari-sad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
