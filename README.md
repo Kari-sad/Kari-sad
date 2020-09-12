@@ -1,4 +1,4 @@
-<img alt="Image for post" class="cy tj t u v cj ak c" width="1120" height="481" src="https://miro.medium.com/max/1120/1*JziduX-y-2sKETAYHDzMJA.jpeg" srcset="https://miro.medium.com/max/276/1*JziduX-y-2sKETAYHDzMJA.jpeg 276w, https://miro.medium.com/max/552/1*JziduX-y-2sKETAYHDzMJA.jpeg 552w, https://miro.medium.com/max/640/1*JziduX-y-2sKETAYHDzMJA.jpeg 640w, https://miro.medium.com/max/700/1*JziduX-y-2sKETAYHDzMJA.jpeg 700w" sizes="700px">
+<img src="https://miro.medium.com/max/1120/1*JziduX-y-2sKETAYHDzMJA.jpeg" width="100" height="100">
 
  # WELCOME TO MY GITHUB PAGE <br>
 
