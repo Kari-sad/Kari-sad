@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/max/1120/1*JziduX-y-2sKETAYHDzMJA.jpeg" width="800" height="150">
+<https://us.123rf.com/450wm/raccoondaydream/raccoondaydream1706/raccoondaydream170600031/79873426-vector-background-abstract-technology-communication-data-science.jpg?ver=6 width="800" height="150">
 
  # WELCOME TO MY GITHUB PAGE <br>
 
