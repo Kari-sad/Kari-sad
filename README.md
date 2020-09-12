@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/max/1120/1*JziduX-y-2sKETAYHDzMJA.jpeg" width="100" height="100">
+<img src="https://miro.medium.com/max/1120/1*JziduX-y-2sKETAYHDzMJA.jpeg" width="200" height="100">
 
  # WELCOME TO MY GITHUB PAGE <br>
 
