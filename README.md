@@ -1,5 +1,11 @@
 <img src="https://cdn.mos.cms.futurecdn.net/XbYnCuVzbcHPHuYzCGuSmf-650-80.jpg" width="900" height="300">
 
+<h3 align="center">WELCOME TO MY GITHUB PAGE! </h3>
+Hi there 👋 I am Karima, an IT system administrator and a Data science learner
+<p align="center">
+  <a href="www.linkedin.com/in/karima-s">Linkedin</a> •
+ </p>
+
 # WELCOME TO MY GITHUB PAGE! 
 
 ### Hi there 👋 I am Karima, an IT system administrator and a Data science learner 
