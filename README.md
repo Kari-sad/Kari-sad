@@ -1,4 +1,4 @@
-<img src="https://cdn.mos.cms.futurecdn.net/XbYnCuVzbcHPHuYzCGuSmf-650-80.jpg" width="900" height="300">
+<img src="https://cdn.mos.cms.futurecdn.net/XbYnCuVzbcHPHuYzCGuSmf-650-80.jpg" width="900" height="200">
 
 <h3 align="center">Hi there 👋 ,welcome to my Github page! </h3>
 
@@ -9,7 +9,7 @@ I am **Karima** .I am an  **IT system administrator** with a demonstrated histor
 - 🔭 I’m currently working , learning and growing my skillset in Data science and ML portfolio.
 - 🌱 I’m currently learning **Python - R - Power BI**
 - 👯 I’m looking to collaborate on analytics and data science.
-- 🤔 I’m looking for help to join as an intern/full time in DS fields.
+- 🤔 I’m looking for help to join as an intern/full time in DS field.
 - 📫 How to reach me:
   [Linkedin](https://www.linkedin.com/in/karima-s)
   
