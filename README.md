@@ -14,7 +14,19 @@ I am **Karima** . I am an  **IT system administrator** with a demonstrated histo
   [Linkedin](https://www.linkedin.com/in/karima-s)
   
 ---------------------------------------------------------------------------------------------------------------
-![Karima's github stats](https://github-readme-stats.vercel.app/api?username=Kari-sad&show_icons=true&hide_border=true)
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Kari-sad&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kari-sad&hide=css,java,html&theme=tokyonight">
+</p>
+
+</details>
+
 <!--
 **Kari-sad/Kari-sad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
