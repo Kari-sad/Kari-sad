@@ -7,11 +7,16 @@ I am **Karima** .I am an  **IT system administrator** with a demonstrated histor
   <a href="www.linkedin.com/in/karima-s">Linkedin</a> •
   <a href="www">Resume</a>
  </p>
+---
 
+- 🔭 I’m currently working , learning and growing my skillset in Data science and ML portfolio.
+- 🌱 I’m currently learning **Python - R - Power BI**
+- 👯 I’m looking to collaborate on analytics and data science.
+- 🤔 I’m looking for help to join as an intern/full time in DS fields.
+- 📫 How to reach me:
+  [Linkedin](https://www.linkedin.com/in/karima-s)
   
-🔭 I’m currently working on my Data science and ML portfolio
-
-
+---------------------------------------------------------------------------------------------------------------
 ![Karima's github stats](https://github-readme-stats.vercel.app/api?username=Kari-sad&show_icons=true&hide_border=true)
 <!--
 **Kari-sad/Kari-sad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
