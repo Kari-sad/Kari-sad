@@ -1,7 +1,8 @@
 <img src="https://cdn.mos.cms.futurecdn.net/XbYnCuVzbcHPHuYzCGuSmf-650-80.jpg" width="900" height="300">
 
 <h3 align="center">Hi there 👋 ,welcome to my Github page! </h3>
-<h3 align="center">I am Karima, an IT system administrator and a Data science learner</h3>
+
+I am **Karima** .I am an  **IT system administrator** with a demonstrated history of working in the information technology and services industry. I am a  Data science enthousiast too.
 <p align="center">
   <a href="www.linkedin.com/in/karima-s">Linkedin</a> •
   <a href="www">Resume</a>
