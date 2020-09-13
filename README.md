@@ -3,11 +3,8 @@
 <h3 align="center">Hi there 👋 ,welcome to my Github page! </h3>
 
 I am **Karima** .I am an  **IT system administrator** with a demonstrated history of working in the information technology and services industry. I am a  Data science enthousiast too.
-<p align="center">
-  <a href="www.linkedin.com/in/karima-s">Linkedin</a> •
-  <a href="www">Resume</a>
- </p>
----
+
+---------------------------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working , learning and growing my skillset in Data science and ML portfolio.
 - 🌱 I’m currently learning **Python - R - Power BI**
