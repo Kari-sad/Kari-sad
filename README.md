@@ -2,7 +2,7 @@
 
 <h3 align="center">Hi there 👋 ,welcome to my Github page! </h3>
 
-I am **Karima** .I am an  **IT system administrator** with a demonstrated history of working in the information technology and services industry. I am a  Data science enthousiast too.
+I am **Karima** . I am an  **IT system administrator** with a demonstrated history of working in the information technology and services industry. I am a  Data science enthousiast too.
 
 ---------------------------------------------------------------------------------------------------------------
 
