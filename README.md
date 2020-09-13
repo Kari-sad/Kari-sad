@@ -9,6 +9,9 @@
 
   
 🔭 I’m currently working on my Data science and ML portfolio
+
+
+![Karima's github stats](https://github-readme-stats.vercel.app/api?username=Kari-sad&show_icons=true&hide_border=true)
 <!--
 **Kari-sad/Kari-sad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
