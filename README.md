@@ -1,4 +1,4 @@
-<img src="https://cdn.mos.cms.futurecdn.net/XbYnCuVzbcHPHuYzCGuSmf-650-80.jpg" width="1200" height="200">
+<img src="https://spsoftindia.com/wp-content/themes/spsoft/images/services-cloud-devops/banner-cloud-devops-service.jpg" width="1200" height="200">
 
 <h3 align="center">Hi there 👋 ,welcome to my Github page! </h3>
 
