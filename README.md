@@ -6,7 +6,6 @@ I am **Karima** . I am an  **IT system administrator** with a demonstrated histo
 
 ---------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working , learning and growing my skillset in DevOps.
 - 🌱 I’m currently learning **everything related to DevOps**
 
 
