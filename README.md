@@ -8,7 +8,6 @@ I am **Karima** . I am an  **IT system administrator** with a demonstrated histo
 
 - 🌱 I’m currently learning **everything related to DevOps**
 
-
 - 📫 How to reach me:
   [Linkedin](www.linkedin.com/in/karimasadat)
   
